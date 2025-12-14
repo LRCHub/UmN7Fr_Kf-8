@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ムーンライト",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-14T04:29:10.838140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ムーンライト・セレナーデ",
+      "artist": "Glenn Miller",
+      "has_synced": false,
+      "path": "select/01_ムーンライト・セレナーデ_Glenn_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メロディアス・ムーンライト",
+      "artist": "月読 調(CV:南條愛乃)",
+      "has_synced": true,
+      "path": "select/02_メロディアス・ムーンライト_月読_調(CV_南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メロディアス・ムーンライト",
+      "artist": "月読調 (南條愛乃)",
+      "has_synced": true,
+      "path": "select/03_メロディアス・ムーンライト_月読調_(南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ムーンライト(または“きみが眠るための音楽”)",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/04_ムーンライト(または“きみが眠るための音楽”)_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ムーンライト",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/05_ムーンライト_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ムーンライト",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/06_ムーンライト_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ムーンライト・レター",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/07_ムーンライト・レター_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ムーンライト・レター",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/08_ムーンライト・レター_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ムーンライト ストーリー",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/09_ムーンライト_ストーリー_PRINCESS_PRINCESS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ムーンライト・ホールド・ミー・タイト",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/10_ムーンライト・ホールド・ミー・タイト_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダンス・イン・ザ・ムーンライト zamurai mix",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/11_ダンス・イン・ザ・ムーンライト_zamurai_mix_DOES.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ムーンライト",
+      "artist": "鶴",
+      "has_synced": false,
+      "path": "select/12_ムーンライト_鶴.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ムーンライト・ホールド・ミー・タイト",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/13_ムーンライト・ホールド・ミー・タイト_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "フィール ザ ムーンライト 〜愛の歌声を聴かせて〜",
+      "artist": "Sakihi, Miyu",
+      "has_synced": true,
+      "path": "select/14_フィール_ザ_ムーンライト_〜愛の歌声を聴かせて〜_Sakihi,_Miyu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ムーンライト・レター (オリジナル・カラオケ)",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/15_ムーンライト・レター_(オリジナル・カラオケ)_中森明菜.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムーンライト",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_ムーンライト_星街すいせい.txt"
+    }
+  ]
+}
